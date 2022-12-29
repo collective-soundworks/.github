@@ -9,6 +9,6 @@ Visit [https://soundworks.dev](https://soundworks.dev) for more informations.
 
 ## Credits
 
-The development of `soundworks` is conducted in the [Interaction Music Movement Team](https://www.stms-lab.fr/team/interaction-son-musique-mouvement/) from the Ircam's STMS-LAB.
+The development of `soundworks` is conducted in the [Sound Music Movement Interaction Team](https://www.stms-lab.fr/team/interaction-son-musique-mouvement/) from the Ircam's STMS-LAB.
 
 
