@@ -1,6 +1,6 @@
 # `soundworks`
 
-![logo-400x400.png](./assets/high-level-architecture.png.png)
+![architecture-overview](./assets/high-level-architecture.png)
 
 `soundworks` is on open-source creative coding framework for distributed applications based on Web technologies.
 
