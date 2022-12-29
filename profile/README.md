@@ -1,6 +1,6 @@
 # `soundworks`
 
-![logo-400x400.png](./logo-400x400.png)
+![logo-400x400.png](./assets/logo-400x400.png)
 
 `soundworks` is on open-source creative coding framework for distributed applications based on Web technologies.
 
